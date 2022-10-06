@@ -28,6 +28,7 @@ print("The number of words are in the file is ",num)
 ```
 ### OUTPUT:
  ![OUTPUT](/word.png)
+ ![OUTPUT](/git6.png)
 
 
 ## RESULT:
